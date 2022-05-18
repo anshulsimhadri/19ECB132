@@ -7,7 +7,7 @@
 
 [03 binary search.c](03_binary_search.c)
 
-[04 insertion in singly linked list.c](04_insertion_singly_linked_list.c)
+[04 insertion in singly linked list.c](04_insertion_in_singly_linked_list.c)
 
-[05 deletion in singly linked list.c](05_deletion_singly_linked_list.c)
+[05 deletion in singly linked list.c](05_deletion_in_singly_linked_list.c)
 
