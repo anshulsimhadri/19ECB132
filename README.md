@@ -7,4 +7,4 @@
 
 [03 binary search.c](03_binary_search.c)
 
-[o4 singly linked list.c](04_singly_linked_list.c)
+[04 singly linked list.c](04_singly_linked_list.c)
