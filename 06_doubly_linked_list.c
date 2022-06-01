@@ -26,6 +26,7 @@ three->prev = two;
 
 /* Save address of first node in head */
 head = one;
+
 1.Append List
 2.Delete node
 3.Exit

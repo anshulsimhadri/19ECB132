@@ -84,3 +84,10 @@ int main()
  
     return 0;
 }
+
+ 
+Enter data to be inserted: 
+
+Data = 2
+Data = 2
+Data = 2
