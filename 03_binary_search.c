@@ -26,3 +26,4 @@ int main()
     printf("Index: %d\n", binarySearch(arr, 0, n-1, key));
     return 0;
 }
+Index: 5
