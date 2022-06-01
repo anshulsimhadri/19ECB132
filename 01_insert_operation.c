@@ -42,3 +42,5 @@ int main()
   
     return 0;
 }
+Before Insertion: 12  16  20  40  50  70  
+After Insertion: 12  16  20  26  40  50  70 
