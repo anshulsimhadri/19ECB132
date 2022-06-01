@@ -65,3 +65,8 @@ void begdelete()
             printf("\n Node deleted from the begining ...");  
         }  
     }  
+
+1.Append List
+2.Delete node
+3.Exit
+4.Enter your choice?
